@@ -1,6 +1,10 @@
 👋 Hi there!  
 🌱 I’m interested in Web development.  
-I'm currently studying 
+I'm currently studying <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
+
+### Skills  
+#### Platforms & Languages
+<img src="https://img.shields.io/badge/OpenJDK-000000?style=flat-square&logo=OpenJDK&logoColor=white"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"> 
 <!--
 **glowju013/glowju013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
