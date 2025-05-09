@@ -9,17 +9,11 @@ I'm currently studying <img src="https://img.shields.io/badge/TypeScript-3178C6?
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nevertheless113)](https://solved.ac/nevertheless113)<br/>
-<!--
-**glowju013/glowju013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=glowju013&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/glowju013"
+  width="600"
+  height="300"
+/>
+</a>
