@@ -11,6 +11,12 @@ I'm currently studying <img src="https://img.shields.io/badge/TypeScript-3178C6?
 
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/glowju013"/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=glowju013&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/glowju013"
+    width="600"
+    height="120"
+  />
 </a>
+  
