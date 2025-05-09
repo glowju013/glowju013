@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=yunju&fontSize=90)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=yunju&fontSize=90)](https://leeyunju.com/#/)
 
 👋 Hi there!  
 🌱 I’m interested in Web development.  
@@ -10,13 +10,11 @@ I'm currently studying <img src="https://img.shields.io/badge/TypeScript-3178C6?
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nevertheless113)](https://solved.ac/nevertheless113)<br/>
-
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=glowju013&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/glowju013"
-    width="600"
+    width="1000"
     height="120"
   />
 </a>
