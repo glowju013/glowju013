@@ -8,7 +8,7 @@ I'm currently studying <img src="https://img.shields.io/badge/TypeScript-3178C6?
 <a href="https://marketplace.visualstudio.com/items?itemName=glowju013.churu-vscode-pet">
   <img
     align="right"
-    src="./assets/churu-sleep-2x-extra-slow.gif"
+    src="./assets/churu-sleep.gif"
     width="320"
     alt="Churu VSCode Pet"
   />
