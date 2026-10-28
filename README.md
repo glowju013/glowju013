@@ -9,7 +9,7 @@ I'm currently studying <img src="https://img.shields.io/badge/TypeScript-3178C6?
   <img
     align="right"
     src="./assets/churu-sleep.gif"
-    width="320"
+    width="160"
     alt="Churu VSCode Pet"
   />
 </a>
