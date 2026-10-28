@@ -5,14 +5,22 @@
 🌱 I’m interested in Web development.  
 I'm currently studying <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
 
-### 🐯 Skills  
+<a href="https://marketplace.visualstudio.com/items?itemName=glowju013.churu-vscode-pet">
+  <img
+    align="right"
+    src="./assets/churu-sleep-2x-extra-slow.gif"
+    width="320"
+    alt="Churu VSCode Pet"
+  />
+</a>
+
+### 🐯 Skills
 #### Platforms & Languages
 
-<p>
-  <img src="https://img.shields.io/badge/OpenJDK-000000?style=flat-square&logo=OpenJDK&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
-  <img src="./assets/churu-sleep.gif" width="64" alt="Churu Pixel Animation" />
-</p>
+<img src="https://img.shields.io/badge/OpenJDK-000000?style=flat-square&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
+
+<br clear="all" />
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=glowju013&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/glowju013"
