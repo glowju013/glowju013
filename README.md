@@ -7,11 +7,12 @@ I'm currently studying <img src="https://img.shields.io/badge/TypeScript-3178C6?
 
 ### 🐯 Skills  
 #### Platforms & Languages
-<img src="https://img.shields.io/badge/OpenJDK-000000?style=flat-square&logo=OpenJDK&logoColor=white"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
 
-
-
-
+<p>
+  <img src="https://img.shields.io/badge/OpenJDK-000000?style=flat-square&logo=OpenJDK&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
+  <img src="./assets/churu-sleep.gif" width="64" alt="Churu Pixel Animation" />
+</p>
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=glowju013&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/glowju013"
