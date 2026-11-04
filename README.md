@@ -9,7 +9,7 @@ I'm currently studying <img src="https://img.shields.io/badge/TypeScript-3178C6?
   <img
     align="right"
     src="./assets/churu-sleep.gif"
-    width="160"
+    width="80"
     alt="Churu VSCode Pet"
   />
 </a>
@@ -24,7 +24,7 @@ I'm currently studying <img src="https://img.shields.io/badge/TypeScript-3178C6?
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=glowju013&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/glowju013"
-  width="300"
-  height="150"
+  width="600"
+  height="300"
 />
 </a>
