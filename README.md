@@ -2,7 +2,7 @@
 
 
 👋 Hi there!  
-🌱 I’m interested in Web development.  
+🌱 I’m interested in Web & app development.  
 I'm currently studying <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
 
 <a href="https://marketplace.visualstudio.com/items?itemName=glowju013.churu-vscode-pet">
